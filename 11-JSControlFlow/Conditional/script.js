@@ -2,10 +2,16 @@ var age = prompt("How old are you? : ");
 
 if(age < 0){
     alert("Error you input wrong answer!");
-} else if(age === 21){
+} 
+
+if(age === 21){
     alert("happy 21st birthday!!");
-} else if(age % 2 === 1){
+}
+
+if(age % 2 !== 0){
     alert("your age is odd");
-} else if(age / age === 1){
+}
+
+if(age % Math.sqrt(age) === 0){
     alert("your age is perfect square");
 }

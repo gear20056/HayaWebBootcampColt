@@ -1,0 +1,29 @@
+Comparison Operators
+
+> Greater than
+>= Greater than or equal to
+
+< Less than
+<= Less than or equal to
+
+== Equal to
+!= Not Equal to
+
+=== Equal value and type
+!== Not Equal value or equal type
+
+
+--------------------------------------
+Assume x = 5
+
+x > 10 [False]
+x >= 5 [False]
+
+x < -50 [False]
+x <= 100 [True]
+
+x == "5" [True]
+x != "b" [True]
+
+x === "5" [False]
+x !== "5" [True]

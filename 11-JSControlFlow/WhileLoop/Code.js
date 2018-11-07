@@ -1,17 +1,18 @@
 // Execerise 1
 
-
+/*
 var num = 1;
 
 while(num <= 10){
     console.log(num);
     num += 2;
 }
+*/
 
 
 // Execerise 2
 
-/*
+
 var num = 1;
 
 while(num <= 20) {
@@ -19,7 +20,7 @@ while(num <= 20) {
         console.log(num);
     num++;
 }
-*/
+
 
 // Execerise 3
 

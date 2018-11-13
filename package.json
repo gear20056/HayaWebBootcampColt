@@ -1,0 +1,11 @@
+{
+  "name": "HayaWebBootcampColt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gear20056/HayaWebBootcampColt.git",
+  "author": "Chayathorn Lorkanchanakul",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.9.0"
+  }
+}
